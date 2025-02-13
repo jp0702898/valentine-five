@@ -13,13 +13,13 @@ export const locales = {
   es: {
     title: "Si no lo abres, me pondré triste 😢",
 
-    greetings: `Hola señorita {name}, muy buenos días 😊🌞${flowerEmoji}`,
+    greetings: `Hola señorito {name}, muy buenos días 😊🌞${flowerEmoji}`,
     ask_question: "Deseo hacerle una pregunta si no fuera mucha molestia 🤔💬",
     be_my_valentine: "¿Deseas ser mi San Valentín? 💘❤️",
     thank_you:
       "Gracias por aceptar, cariño ❤️. Nunca olvides estas palabras: Me atraes a ti como la fuerza que ejerce la tierra 🌍. 💫 Mi corazón llegó del cielo a la tierra en un vertiginoso movimiento, mi primer amor 💖✨",
     bad_mood: "¡Oh! Parece que no estás de buen humor 😔...",
-    sorry: "Lo siento mucho, no era mi intención molestarla 😢...",
+    sorry: "Lo siento mucho, no era mi intención molestarlo 😢...",
     final_no_response_1: "No aceptaré un no como respuesta 😤...",
     final_no_response_2:
       "Oh no... 😢 Mi corazón está roto, pero aún te quiero. 💔",
