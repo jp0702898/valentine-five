@@ -183,7 +183,7 @@ const options: ISourceOptions = {
         ],
       },
     ],
-    volume: 6,
+    volume: 10,
   },
 };
 
